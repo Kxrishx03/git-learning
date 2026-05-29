@@ -1,1 +1,1 @@
-Learning Advanced Git
+Learning Advanced Git. Creating a demo file for merge conflict 
